@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.tabel td,
+.tabel th {
+  border: 1px solid #000;
+}
